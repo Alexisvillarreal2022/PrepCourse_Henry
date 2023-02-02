@@ -1,2 +1,7 @@
-# PrepCourse_Henry
-Este es un repositorio de prueba del modulo 2 dep prepcourse
+
+Alexis Villarreal 
+
+
+
+
+Prueba de como crear un reposorio y clonarlo desde github a mi computadora
